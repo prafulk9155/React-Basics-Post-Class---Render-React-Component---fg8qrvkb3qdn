@@ -1,6 +1,6 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import Assignment from '../
+import Assignment from '../components/Assignment/';
 
 const App = () => {
   return (
